@@ -51,7 +51,7 @@ function Countdown() {
    
     function monTimer(event: React.MouseEvent<HTMLButtonElement>) {
            event.preventDefault();
-        alert("Et le compteur il sert à quoi?? Revenez quand il sera l'heure d'être sage!");
+        alert("Et le compteur il sert à quoi?? Revenez quand il sera l'heure d'être sage! PS: Pour passez le temps cliquer sur 'A propos'");
     }
 
 
