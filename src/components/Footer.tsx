@@ -4,7 +4,7 @@ function Footer() {
 
     function rules(event: React.MouseEvent<HTMLButtonElement>) {
         event.preventDefault();
-     alert("Mystery Wildy Christmas est un jeu de Noël. Vous devez attendre le 24 décembre pour ouvrir votre cadeau. Si vous avez été sage, vous pourrez ouvrir votre cadeau. Sinon, vous devrez attendre le 25 décembre. Bonne chance!");
+     alert("Wildy Christmas est un jeu de Noël. Vous devez attendre le 25 décembre pour ouvrir votre cadeau. Si vous avez été vraiment (mais alors vraiment) sage, vous pourrez ouvrir votre cadeau avant. Sinon, vous devrez attendre le 25 décembre. Bonnes fêtes!");
     }
 
 
