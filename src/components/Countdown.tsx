@@ -21,7 +21,7 @@ function Countdown() {
         const mm = String(today.getMonth() + 1).padStart(2, "0");
         const yyyy = today.getFullYear();
         const nextYear = yyyy + 1;
-        const dayMonth = "12/21/";
+        const dayMonth = "12/25/";
         let christmas = dayMonth + yyyy;
 
         const todayString = `${mm}/${dd}/${yyyy}`;
