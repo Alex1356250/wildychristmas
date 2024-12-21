@@ -12,7 +12,7 @@ function Footer() {
     return (
         <div className="footer">
             <button type="button" onClick={rules}>Règles</button>
-            <p>© WildCode School 2024</p>
+            <p>© Alexandre Clasquin 2024</p>
             <button type="button"><a href="https://myportfolio-jade-mu.vercel.app" target="_blank" rel="noopener noreferrer">A propos</a></button>
         </div>
     )
